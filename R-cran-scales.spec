@@ -21,7 +21,7 @@ Requires(post,postun):	perl-base
 Requires(post,postun):	textutils
 Requires:	R
 Requires:	R-cran-RColorBrewer
-Requires:	R-cran-#, stringr
+Requires:	R-cran-stringr
 Requires:	R-cran-dichromat
 Requires:	R-cran-munsell >= 0.2
 Requires:	R-cran-plyr >= 1.2
